@@ -1,0 +1,21 @@
+{
+  "name": "class_a",
+  "cube_file": "cube_tyx.npy",
+  "block_sums_file": "block_sums.npy",
+  "preview_file": "preview.npy",
+  "source_path": "/Users/XUP054/Documents/imageObserver/demo/raw/class_a.npy",
+  "source_layout": "tyx",
+  "dtype": "float32",
+  "time_steps": 720,
+  "height": 96,
+  "width": 160,
+  "pixel_count": 15360,
+  "block_size": 1024,
+  "block_count": 15,
+  "lod_levels": 1,
+  "block_sums_lod_file": "block_sums_lod.npy",
+  "lod_offsets": [
+    0,
+    360
+  ]
+}
